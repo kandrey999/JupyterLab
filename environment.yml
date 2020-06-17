@@ -6,3 +6,4 @@ dependencies:
   - pip:
     - bs4
     - plotly
+    - numpy
